@@ -1,2 +1,2 @@
 # cursoJavaScript
-EJERCICIOS: Escuela de Programación de la UOC - JavaScript
+EJERCICIOS de la Escuela de Programación de la UOC - JavaScript
